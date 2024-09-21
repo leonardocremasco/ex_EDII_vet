@@ -1,3 +1,6 @@
+// Nome: Leonardo Cremasco Bernardes Boscariol | RA: 202310228
+// Nome: Rafael Fernandes | RA: 202310406
+
 
 #include <stdio.h>
 #include <stdlib.h>
